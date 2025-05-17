@@ -99,6 +99,19 @@ Usability: The application should have an intuitive UI/UX, making it easy for us
 Reliability: The system should have an uptime of 99.9% and recover quickly from any failures.
 
 
+# 5. Use Case Diagrams 
+1. what is Use Case Diagram: Is a type of Unified Modeling Language (UML) diagram used to represent the interactions between users (actors) and a system.Ot tells us how different users interact with features and functions of an app.
+
+2. Benefit of Use Case Diagrams
+i.  	Help identify and clarify system requirements.
+ii. 	Improve communication between developers and stakeholders.
+iii. 	Provide a clear overview of user roles and system functionality.
+iv.	Serve as a foundation for creating test cases.
+
+The Use Case Diagram
+
+
+
 # 6. Acceptance Criteria
 The importance of Acceptance Criteria in Requirement Analysis:
 	Ensure all parties have a clear understanding of feature requirements.
