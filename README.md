@@ -97,3 +97,19 @@ Scalability: The system should be able to scale horizontally to handle increased
 Usability: The application should have an intuitive UI/UX, making it easy for users to navigate and perform tasks.
 
 Reliability: The system should have an uptime of 99.9% and recover quickly from any failures.
+
+
+# 6. Acceptance Criteria
+The importance of Acceptance Criteria in Requirement Analysis:
+	Ensure all parties have a clear understanding of feature requirements.
+	Provide a basis for testing and validation.
+	Help in maintaining quality and meeting user expectations.
+ 
+ Acceptance Criteria for Checkout feature in the booking management system: 
+ 	1. User can review booking details (dates, price, listing) before payment.
+	2. Total price is accurately calculated, including taxes and discounts.
+	3. User can enter and submit valid payment information securely.
+	4. On successful payment, a confirmation message and booking reference are displayed.
+	5. System stores the booking and updates availability in real-time.
+	6. User receives a confirmation email with booking details.
+ 
